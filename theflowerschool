@@ -1,0 +1,722 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charSet="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/15/logo-rafi99-16.gif" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="stylesheet" href="https://cdn-site.gojek.com/static/_next/static/css/595d2867740473cd.css" data-precedence="next" />
+    <link rel="stylesheet" href="https://cdn-site.gojek.com/static/_next/static/css/2959200a453540a5.css" data-precedence="next" />
+    <link rel="preload" as="script" fetchPriority="low" href="https://cdn-site.gojek.com/static/_next/static/chunks/webpack-923b5b2f0866e2a5.js" />
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/fd9d1056-f0b8d37349d84b2b.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/2117-688843ba7938e695.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/main-app-66a653f430603202.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/2972-8af337a0826d928a.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/8003-4f3c35b8a3390d14.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/8339-ff1f33f7296caa20.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/app/%5Blocale%5D/(indonesia)/layout-d05585ff0cc63374.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/7088-6389030e5a40cfc7.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/app/error-81bcfb90d525de85.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/app/%5Blocale%5D/(indonesia)/%5B...slug%5D/not-found-8bf48136b719f17f.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/6837-43d46a220b6230ee.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/1853-9bd4c32453a1fa4b.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/2742-d00df0b52e49e3a2.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/6492-55debad990bd10f3.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/7113-7c221e7039fc200e.js" async=""></script>
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/app/%5Blocale%5D/(indonesia)/%5B...slug%5D/page-5f9bd2fa64114855.js" async=""></script>
+    <link rel="preload" href="/scripts/new-relic-script.js" as="script" />
+    <link rel="preload" href="https://www.googletagmanager.com/gtag/js?id=G-DJQKT925G5" as="script" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/15/logo-rafi99-16.gif" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/15/logo-rafi99-16.gif" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link rel="preload" as="image" href="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+    <link href="https://onesnap.dev/images/2025/10/15/fav-rafi99-14.png" rel="shortcut icon" type="image/x-icon" />
+    <title>RAFI99 – Rujukan Tempat Main Situs Terbaik dan Pecahan Maksimal</title>
+    <meta name="description" content="RAFI99 adalah rujukan utama bagi pemain yang ingin menikmati situs terbaik dengan pecahan maksimal. Nikmati pengalaman bermain seru, aman, dan peluang menang tanpa batas setiap hari!" />
+    <meta name="keywords" content="RAFI99, RAFI99 LOGIN"/>
+    <link rel="canonical" href="https://theflowerschool.com.au/contact/" />
+    <link rel="amphtml" href="https://concat-rafi99.pages.dev/" />
+    <link rel="alternate" hrefLang="en" href="https://theflowerschool.com.au/contact/en-id" />
+    <link rel="alternate" hrefLang="x-default" href="https://theflowerschool.com.au/contact/en-id" />
+    <link rel="alternate" hrefLang="id" href="https://theflowerschool.com.au/contact/id-id" />
+    <link rel="icon" href="https://onesnap.dev/images/2025/10/15/fav-rafi99-14.png" type="image/png" sizes="32x32" />
+    <script src="https://cdn-site.gojek.com/static/_next/static/chunks/polyfills-42372ed130431b0a.js" noModule=""></script>
+     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "RAFI99 – Rujukan Tempat Main Situs Terbaik dan Pecahan Maksimal",
+  "image": "https://onesnap.dev/images/2025/10/16/rafi99-gassini.png",
+  "description": "RAFI99 adalah rujukan utama bagi pemain yang ingin menikmati situs terbaik dengan pecahan maksimal. Nikmati pengalaman bermain seru, aman, dan peluang menang tanpa batas setiap hari!",
+  "brand": {
+    "@type": "Brand",
+    "name": "RAFI99"
+  },
+  "sku": "RAFI99",
+  "mpn": "909GCR",
+  "url": "https://theflowerschool.com.au/contact/",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://theflowerschool.com.au/contact/",
+    "priceCurrency": "USD",
+    "price": "0.00",
+    "priceValidUntil": "2025-12-31",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "RAFI99"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": 779
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "koci"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "maria"
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "RAFI99",
+      "item": "https://theflowerschool.com.au/contact/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "RAFI99 LOGIN",
+      "item": "https://theflowerschool.com.au/contact/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "RAFI99 DAFTAR",
+      "item": "https://theflowerschool.com.au/contact/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "RAFI99 LINK ALTERNATIF",
+      "item": "https://theflowerschool.com.au/contact/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "RAFI99 – Rujukan Tempat Main Situs Terbaik dan Pecahan Maksimal",
+      "item": "https://theflowerschool.com.au/contact/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "RAFI99",
+  "url": "https://theflowerschool.com.au/contact/",
+  "logo": "https://onesnap.dev/images/2025/10/15/logo-rafi99-16.gif",
+  "sameAs": [
+    "https://www.facebook.com/RAFI99",
+    "https://twitter.com/RAFI99",
+    "https://www.instagram.com/RAFI99"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+62-8522-453-9999",
+    "contactType": "customer support",
+    "areaServed": "ID",
+    "availableLanguage": ["Indonesian", "English"]
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "RAFI99",
+  "url": "https://theflowerschool.com.au/contact/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://mahjong-RAFI99.pages.dev/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa itu RAFI99 – Rujukan Tempat Main Situs Terbaik dan Pecahan Maksimal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RAFI99 adalah situs resmi yang menjadi rujukan utama bagi pemain yang ingin menikmati situs terbaik dengan pecahan maksimal. Platform ini menawarkan pengalaman bermain seru, peluang menang besar, sistem fair play, dan bonus menarik untuk semua pemain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mengapa RAFI99 disebut situs terbaik dan pecahan maksimal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RAFI99 dikenal sebagai situs terbaik karena menyediakan berbagai permainan dengan pecahan maksimal dan kesempatan menang besar. Semua permainan dirancang adil, pembayaran cepat, dan mendukung pengalaman bermain yang menyenangkan bagi semua pemain."
+      }
+ }]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://theflowerschool.com.au/contact/"
+  },
+  "headline": "RAFI99 – Rujukan Tempat Main Situs Terbaik dan Pecahan Maksimal",
+  "alternativeHeadline": "RAFI99 – Rujukan Tempat Main Situs Terbaik dan Pecahan Maksimal",
+  "image": [
+    "https://onesnap.dev/images/2025/10/16/rafi99-gassini.png"
+  ],
+  "datePublished": "2025-10-04T09:00:00+07:00",
+  "dateModified": "2025-10-04T09:00:00+07:00",
+  "author": {
+    "@type": "Person",
+    "@id": "https://theflowerschool.com.au/contact/#founder",
+    "name": "RAFI99",
+    "url": "https://theflowerschool.com.au/contact/#RAFI99"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://theflowerschool.com.au/contact/#organization",
+    "name": "RAFI99",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://onesnap.dev/images/2025/10/16/rafi99-gassini.png"
+    }
+  },
+  "description": "RAFI99 adalah rujukan utama bagi pemain yang ingin menikmati situs terbaik dengan pecahan maksimal. Nikmati pengalaman bermain seru, aman, dan peluang menang tanpa batas setiap hari!",
+  "articleSection": "slot online, slot gacor",
+  "keywords": [
+    "Mahjong Ways 2025", 
+    "Strategi Maxwin", 
+    "RAFI99", 
+    "Game Online", 
+    "Tips Bermain"
+  ],
+  "inLanguage": "id-ID",
+  "isAccessibleForFree": true,
+  "hasPart": [
+    {
+      "@type": "WebPageElement",
+      "name": "Bagian Artikel",
+      "cssSelector": "main"
+    }
+  ]
+}
+</script>
+
+<style>
+    /* ======== TEMA UTAMA ======== */
+    html, body {
+      margin: 0;
+      padding: 20px;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+      background: linear-gradient(180deg, #e0f009 0%, hsl(59, 90%, 49%) 50%, #f3ef09 100%);
+      color: #ffffff;
+      text-align: center; /* Semua teks rata tengah */
+    }
+
+    /* ======== KONTAINER ARTIKEL ======== */
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      background: rgba(0, 0, 0, 0.3);
+      padding: 24px;
+      border-radius: 12px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
+    }
+
+    /* ======== HEADING ======== */
+    h1, h2, h3 {
+      color: #ffffff;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 12px;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      margin-top: 20px;
+      margin-bottom: 8px;
+      color: #fffd9e; /* Hijau lembut biar tetap kontras */
+    }
+
+    /* ======== PARAGRAF & TEKS ======== */
+    p {
+      color: #ffffff;
+      line-height: 1.7;
+      margin: 10px 0;
+      font-size: 1rem;
+      text-align: center;
+    }
+
+    strong {
+      color: #fff;
+      font-weight: bold;
+    }
+
+    /* ======== LINK / CTA ======== */
+    a {
+      color: #ffee00;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+
+    /* ======== TOMBOL CTA ======== */
+    .cta {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      background: linear-gradient(90deg, #e5ff00, #ccc900);
+      color: #003300;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .cta:hover {
+      transform: scale(1.05);
+      background: linear-gradient(90deg, #becc00, #fbff00);
+    }
+
+    /* ======== RESPONSIVE ======== */
+    @media (max-width: 600px) {
+      body { padding: 14px; }
+      .container { padding: 16px; }
+      h1 { font-size: 1.4rem; }
+      h2 { font-size: 1.1rem; }
+      p { font-size: 0.95rem; }
+    }
+  </style>
+
+  </head>
+  <body>
+    <html lang="en">
+      <head></head>
+      <body>
+        <header>
+          <div class="hidden lg:flex h-[100px] w-full fixed top-0 z-[99] align-middle shadow-md transition ease-in-out duration-200 text-white bg-gray-primary">
+            <div class="flex w-full px-10 justify-between items-center">
+              <a href="/en-id">
+                <img src="https://onesnap.dev/images/2025/10/15/logo-rafi99-16.gif" alt="logo" />
+              </a>
+              <div class="flex menus gap-10 flex-columns items-center">
+                <div class="menus flex gap-10 flex-column relative">
+                  <a class="hover:underline pb-1 font-maisonBold sm:font-maisonExtendedBold md:font-maisonDemi leading-height_32x text-size_12x md:text-size_9x u-animation-underline visit flex content-center gap-2 cursor-pointer" href="https://theflowerschool.com.au/contact/">RAFI99 LOGIN</a>
+                  <div class="absolute top-40 -right-8"></div>
+                </div>
+                <div class="menus flex gap-10 flex-column relative">
+                  <p class="cursor-pointer font-maisonBold sm:font-maisonExtendedBold md:font-maisonDemi leading-height_32x  text-size_12x  md:text-size_9x u-animation-underline visit flex content-center gap-2 items-center">RAFI99 DAFTAR <i class="pi pi-expand_more text-size_8x transition-transform duration-200 ease-out rotate-0 "></i>
+                  </p>
+                  <div class="absolute top-40 -right-8"></div>
+                </div>
+                <div class="menus flex gap-10 flex-column relative">
+                  <a class="hover:underline pb-1 font-maisonBold sm:font-maisonExtendedBold md:font-maisonDemi leading-height_32x text-size_12x md:text-size_9x u-animation-underline visit flex content-center gap-2 cursor-pointer" href="https://theflowerschool.com.au/contact/">RAFI99 LINK ALTERNATIF</a>
+                  <div class="absolute top-40 -right-8"></div>
+                </div>
+                <div class="menus flex gap-10 flex-column relative">
+                  <a class="hover:underline pb-1 font-maisonBold sm:font-maisonExtendedBold md:font-maisonDemi leading-height_32x text-size_12x md:text-size_9x u-animation-underline visit flex content-center gap-2 cursor-pointer" href="https://theflowerschool.com.au/contact/">RAFI99 LIVECHAT</a>
+                  <div class="absolute top-40 -right-8"></div>
+                </div>
+                <div class="menus flex gap-10 flex-column relative">
+                  <p class="cursor-pointer font-maisonBold sm:font-maisonExtendedBold md:font-maisonDemi leading-height_32x  text-size_12x  md:text-size_9x u-animation-underline visit flex content-center gap-2 items-center">RAFI99 RTP <i class="pi pi-expand_more text-size_8x transition-transform duration-200 ease-out rotate-0 "></i>
+                  </p>
+                  <div class="absolute top-40 -right-8"></div>
+                </div>
+                <div class="menus flex gap-10 flex-column relative">
+                  <a class="hover:underline pb-1 font-maisonBold sm:font-maisonExtendedBold md:font-maisonDemi leading-height_32x text-size_12x md:text-size_9x u-animation-underline visit flex content-center gap-2 cursor-pointer" href="https://theflowerschool.com.au/contact/">RAFI99 TOTO</a>
+                  <div class="absolute top-40 -right-8"></div>
+                </div>
+                <div class="menus flex gap-10 flex-column relative">
+                  <a class="hover:underline pb-1 font-maisonBold sm:font-maisonExtendedBold md:font-maisonDemi leading-height_32x text-size_12x md:text-size_9x u-animation-underline visit flex content-center gap-2 cursor-pointer" href="https://theflowerschool.com.au/contact/">RAFI99 4D</a>
+                  <div class="absolute top-40 -right-8"></div>
+                </div>
+                <div class="menus flex gap-10 flex-column relative">
+                  <a class="hover:underline pb-1 font-maisonBold sm:font-maisonExtendedBold md:font-maisonDemi leading-height_32x text-size_12x md:text-size_9x u-animation-underline visit flex content-center gap-2 cursor-pointer" href="https://theflowerschool.com.au/contact/">SLOT TOTO</a>
+                  <div class="absolute top-40 -right-8"></div>
+                </div>
+                <div class="menus flex gap-10 flex-column relative">
+                  <p class="cursor-pointer font-maisonBold sm:font-maisonExtendedBold md:font-maisonDemi leading-height_32x  text-size_12x  md:text-size_9x u-animation-underline visit flex content-center gap-2 items-center">SLOT GACOR <i class="pi pi-expand_more text-size_8x transition-transform duration-200 ease-out rotate-0 "></i>
+                  </p>
+                  <div class="absolute top-40 -right-8"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="header-mobile fixed z-50 w-full lg:hidden overflow-y-scroll block">
+            <div class="header__mobile-container flex flex-col">
+              <div class="flex justify-between h-[80px] p-4 items-center text-white bg-gray-primary">
+                <a href="/en-id">
+                  <img src="https://onesnap.dev/images/2025/10/15/logo-rafi99-16.gif" alt="logo" width="100" />
+                </a>
+                <div class="hamburger bg-red flex flex-col gap-[4px]">
+                  <span class="h-[2.5px] w-[25px] bg-white"></span>
+                  <span class="h-[2.5px] w-[25px] bg-white"></span>
+                  <span class="h-[2.5px] w-[25px] bg-white"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div class="md:pt-[100px] pt-[80px]">
+          <section class="w-full overflow-hidden bg-dark200 relative lg:h-auto h-auto" id="section-1">
+            <div class="w-full filter brightness-90">
+              <img alt="hero image" class="w-full lg:hidden" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+              <img alt="hero image" class="h-screen w-full object-cover z-0 lg:block lg:h-auto hidden " src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" />
+            </div>
+    
+          </section>
+          
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-pagination"></div>
+              </div>
+            </div>
+          </section>
+          <section id="section-10" class="scroll-m-10 bg-gray-primary pt-10 md:pt-20 pb-5 md:pb-10">
+            <div class="container flex text-center justify-center">
+              <div class="w-full lg:w-full ml-0">
+                <h1 class="font-maisonExtendedBold md:font-maisonExtendedBold font-bold md:font-extrabold tracking-normal xl:tracking-title text-size_13x md:text-size_18x xl:text-size_24x leading-height_39x md:leading-height_54x xl:leading-height_64x mb-3 text-white">RAFI99 – Rujukan Tempat Main Situs Terbaik dan Pecahan Maksimal</h1>
+              </div>
+              
+            </div>
+            <style>.n-columns-2{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;font-weight:700}.n-columns-2 a{text-align:center;color:#fff;padding:14px 12px;border-radius:12px;text-decoration:none;position:relative;overflow:hidden;transition:transform .3s ease,box-shadow .3s ease}.n-columns-2 a:hover{transform:translateY(-4px) scale(1.03);box-shadow:0 6px 15px rgba(0,0,0,.4)}.n-columns-2 a::before{content:"";position:absolute;top:0;left:0;width:200%;height:100%;background:linear-gradient(120deg,#fff019,#000000,#fff019,#000000,#fff019);background-size:300% 100%;animation:gradientRun 4s linear infinite;z-index:0}.n-columns-2 a span{position:relative;z-index:1}@keyframes gradientRun{0%{background-position:0% 50%}100%{background-position:-200% 50%}}.login{border:2px solid #fff019}.register{border:2px solid #fff019}</style>
+
+                                <div class="n-columns-2">
+                                    <a href="https://japsui.me/rafi99" class="login"><span>LOGIN</span></a>
+
+                                    <a href="https://japsui.me/rafi99" class="register"><span>DAFTAR</span></a>
+                                </div>
+
+                                <h2>Pengalaman Bermain yang Seru dan Mengasyikkan</h2>
+      <p><a href="https://theflowerschool.com.au/contact/" title="RAFI99" target="_blank">RAFI99</a> hadir sebagai platform permainan online terpercaya yang menjadi rujukan utama bagi para pemain yang ingin menikmati pengalaman bermain situs terbaik dengan pecahan maksimal. Tidak hanya menyediakan hiburan seru, RAFI99 juga menawarkan peluang menang besar yang membuat setiap sesi bermain terasa mengasyikkan dan penuh sensasi.</p>
+
+        <h2>Keunggulan Permainan Lengkap dan Menarik</h2>
+        <p>Salah satu keunggulan RAFI99 adalah variasi permainan yang lengkap dan menarik. Dari togel, slot, hingga live casino, semua permainan dirancang untuk memberikan pengalaman bermain yang interaktif, adil, dan menantang. Dengan pecahan maksimal yang tersedia di setiap permainan, pemain memiliki kesempatan untuk meraih kemenangan besar tanpa batas. Tidak heran jika RAFI99 menjadi tempat favorit bagi para pemenang yang ingin menguji keberuntungan dan skill mereka.</p>
+
+        <h2>Kemudahan Akses dan Antarmuka Intuitif</h2>
+        <p>Kemudahan akses juga menjadi nilai lebih RAFI99. Platform ini dapat dimainkan melalui berbagai perangkat, baik desktop maupun mobile, sehingga pemain bisa menikmati permainan di mana saja dan kapan saja. Antarmuka yang intuitif membuat navigasi menjadi mudah, bahkan bagi pemain baru sekalipun. Semua fitur, mulai dari pendaftaran hingga transaksi deposit dan penarikan, dirancang agar proses bermain berjalan lancar tanpa hambatan.</p>
+
+        <h2>Keamanan dan Sistem Fair Play</h2>
+        <p>Keamanan menjadi fokus utama RAFI99. Dengan menggunakan sistem enkripsi canggih, semua data dan transaksi pemain dijaga dengan ketat. Pemain dapat bermain dengan tenang, tanpa khawatir soal kerahasiaan informasi pribadi atau keamanan kemenangan mereka. Sistem fair play juga diterapkan di setiap permainan, memastikan bahwa setiap kemenangan yang diperoleh benar-benar sah dan dapat dipercaya.</p>
+
+        <h2>Bonus dan Promosi Menarik</h2>
+        <p>Selain itu, RAFI99 menyediakan bonus dan promosi menarik yang meningkatkan peluang pemain meraih pecahan maksimal. Mulai dari bonus deposit, cashback, hingga hadiah referral, semua promosi dirancang untuk memberi keuntungan tambahan bagi setiap pemain. Hal ini menjadikan RAFI99 lebih dari sekadar tempat bermain, tetapi juga sebagai platform yang mendukung pemain untuk meraih cuan maksimal setiap hari.</p>
+
+        <h2>Pembayaran Cepat dan Transparan</h2>
+        <p>RAFI99 juga dikenal dengan pembayaran cepat dan transparan. Setiap kemenangan diproses secara instan, sehingga pemain bisa langsung menikmati hasil kemenangan mereka tanpa harus menunggu lama. Kecepatan transaksi ini menambah kepercayaan pemain dan membuat pengalaman bermain menjadi lebih nyaman dan menyenangkan.</p>
+
+        <h2>Layanan Pelanggan Profesional</h2>
+        <p>Salah satu alasan mengapa RAFI99 menjadi rujukan tempat main yang terpercaya adalah komitmen terhadap pelayanan pelanggan. Tim support selalu siap membantu pemain kapan saja, memastikan setiap pertanyaan atau kendala dapat diselesaikan dengan cepat. Dengan layanan pelanggan yang responsif dan profesional, pemain merasa dihargai dan diperhatikan, sehingga pengalaman bermain menjadi lebih menyenangkan.</p>
+
+        <h2>Kesimpulan</h2>
+        <p>Dengan semua keunggulan tersebut, tidak heran jika RAFI99 disebut sebagai situs terbaik dengan pecahan maksimal. Platform ini memberikan kombinasi sempurna antara hiburan seru, keamanan, keadilan, dan peluang menang besar. Para pemain dapat merasakan sensasi bermain yang konsisten dan peluang cuan yang nyata setiap saat.</p>
+
+        <p>Singkatnya, RAFI99 bukan hanya sekadar situs permainan online. Ini adalah rumah bagi para pemain yang ingin menikmati hiburan berkualitas sambil meraih pecahan maksimal. Dengan sistem fair play, keamanan terjamin, bonus menarik, dan layanan pelanggan profesional, setiap pemain dapat merasakan sensasi bermain yang tak terhenti dan kesempatan menang yang maksimal. RAFI99 memang menjadi rujukan utama bagi semua pemain yang ingin bermain cerdas dan cuan tanpa batas.</p>
+
+          </section>
+          <section class="bg-gray-primary color-info-card-slider">
+            <div class="text-center pb-8 pt-15 lg:pt-20">
+              <div>
+                <div class="swiper lg:container normal-swiper pagination-light">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide pb-15 px-5 md:px-0">
+                      <div class="rounded-r24 h-full bg-green-shade2">
+                        <div class="p-8 h-[350px] rounded-r24 flex flex-col gap-2 bg-green-primary">
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                        </div>
+                        <div class="flex flex-col items-center rounded-b-r40 p-4">
+                          <h2 class="font-maisonBold filter brightness-110 text-white text-size_12x">🎯 TEMPAT MAIN ASYIK DI RAFI99</h2>
+                          <p class="font-maisonBook filter brightness-200 text-white md:text-size_7x font-light tracking-normal md:leading-height_21x"></p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide pb-15 px-5 md:px-0">
+                      <div class="rounded-r24 h-full bg-red-shade2">
+                        <div class="p-8 h-[350px] rounded-r24 flex flex-col gap-2 bg-red-primary">
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                        </div>
+                        <div class="flex flex-col items-center rounded-b-r40 p-4">
+                          <h3 class="font-maisonBold filter brightness-110 text-white text-size_12x">🎰 Slot Gacor Mahjong Ways 2 – Sensasi Maxwin Tanpa Batas</h3>
+                          <p class="font-maisonBook filter brightness-200 text-white md:text-size_7x font-light tracking-normal md:leading-height_21x"></p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide pb-15 px-5 md:px-0">
+                      <div class="rounded-r24 h-full bg-purple-shade2">
+                        <div class="p-8 h-[350px] rounded-r24 flex flex-col gap-2 bg-purple-primary">
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                          <img alt="" src="https://onesnap.dev/images/2025/10/16/rafi99-gassini.png" class="pt-3 h-10 mr-auto" />
+                        </div>
+                        <div class="flex flex-col items-center rounded-b-r40 p-4">
+                          <h3 class="font-maisonBold filter brightness-110 text-white text-size_12x">💎 Satu Akun, Semua Game</h3>
+                          <p class="font-maisonBook filter brightness-200 text-white md:text-size_7x font-light tracking-normal md:leading-height_21x"></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="swiper-button-prev"></div>
+                  <div class="swiper-button-next"></div>
+                  <div class="swiper-pagination"></div>
+                </div>
+              
+              
+        <footer class="footer-wrapper c-footer bg-gray-primary text-white lg:py-16">
+          <div class="container border-b border-gray-shade3 py-10">
+            <div>
+              <img class="mb-14" src="https://onesnap.dev/images/2025/10/15/logo-rafi99-16.gif" alt="logo-white" />
+              <div class="menu__list grid grid-cols-2 md:grid-cols-5 gap-10">
+                <div class="menu__container">
+                  <p class="c-footer__title mb-5 md:mb-8 lg:mb-6">Company</p>
+                  <ul class="space-y-4 md:space-y-6 lg:space-y-4">
+                    <li class="gtm-footer-blog">
+                      <a class="c-footer__link" aria-label="Blog" href="/en-id/about">About</a>
+                    </li>
+                    <li class="gtm-footer-blog">
+                      <a class="c-footer__link" aria-label="Blog" href="/en-id/products">Products</a>
+                    </li>
+                    <li class="gtm-footer-blog">
+                      <a class="c-footer__link" aria-label="Blog" href="/blog">Blog</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="menu__container">
+                  <p class="c-footer__title mb-5 md:mb-8 lg:mb-6">Join with us</p>
+                  <ul class="space-y-4 md:space-y-6 lg:space-y-4">
+                    <li class="gtm-footer-blog">
+                      <a class="c-footer__link" aria-label="Blog" href="/en-id/driver">Driver Partners</a>
+                    </li>
+                    <li class="gtm-footer-blog">
+                      <a class="c-footer__link" aria-label="Blog" href="/en-id/merchant">Merchant Partners</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="menu__container">
+                  <p class="c-footer__title mb-5 md:mb-8 lg:mb-6">Careers</p>
+                  <ul class="space-y-4 md:space-y-6 lg:space-y-4">
+                    <li class="gtm-footer-blog">
+                      <a class="c-footer__link" aria-label="Blog" href="https://www.gojek.io/careers">Student</a>
+                    </li>
+                    <li class="gtm-footer-blog">
+                      <a class="c-footer__link" aria-label="Blog" href="/en-id/employee">Professional</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="menu__container">
+                  <p class="c-footer__title mb-5 md:mb-8 lg:mb-6">Get in touch</p>
+                  <ul class="space-y-4 md:space-y-6 lg:space-y-4">
+                    <li class="gtm-footer-blog">
+                      <a class="c-footer__link" aria-label="Blog" href="/en-id/help">Help Center</a>
+                    </li>
+                    <li class="gtm-footer-blog">
+                      <a class="c-footer__link" aria-label="Blog" href="/en-id/our-location">Our Location</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="menu__container md:block hidden">
+                  <p class="c-footer__title mb-4 md:mb-8 lg:mb-6 gap-5 ">Connect with Us</p>
+                  <div class="grid grid-cols-4 gap-5">
+                    <a target="_blank" class="cursor-pointer" href="https://web.facebook.com/gojekindonesia">
+                      <i class="c-footer__icon text-size_14x p-6px pi pi-facebook"></i>
+                    </a>
+                    <a target="_blank" class="cursor-pointer" href="https://twitter.com/gojekindonesia">
+                      <i class="c-footer__icon text-size_14x p-6px pi pi-twitter"></i>
+                    </a>
+                    <a target="_blank" class="cursor-pointer" href="https://www.instagram.com/gojekindonesia/">
+                      <i class="c-footer__icon text-size_14x p-6px pi pi-instagram"></i>
+                    </a>
+                    <a target="_blank" class="cursor-pointer" href="https://www.youtube.com/channel/UCmlKSK0OKn_B3oPwElW4n5w">
+                      <i class="c-footer__icon text-size_14x p-6px pi pi-youtube"></i>
+                    </a>
+                  </div>
+                  <div class="hidden lg:block">
+                    <p class="c-footer__title mb-4 mt-12 ">Download the app</p>
+                    <div class="download__app mt-8 gap-5 flex flex-col md:flex-row ">
+                      <a target="_blank" class="cursor-pointer" href="https://play.google.com/store/apps/details?id=com.gojek.app&amp;af_force_deeplink=true&amp;pid=Go-Jek_Web&amp;is_retargeting=false&amp;af_click_lookback=7d&amp;utm_content=Play_Store_Android&amp;utm_source=Go-Jek_Web&amp;utm_medium=Button&amp;af_adset=Play_Store_Android&amp;af_ad=Play_Store_Android&amp;utm_campaign=Website_Footer_Download_Button_Google_Play_Store&amp;af_channel=Button&amp;c=Website_Footer_Download_Button_Google_Play_Store">
+                        <i class="c-footer__icon--download text-size_14x md:p-6px pi pi-playstore md:text-white hover:text-hover-system1"></i>
+                      </a>
+                      <a target="_blank" class="cursor-pointer" href="https://apps.apple.com/id/app/gojek/id944875099?af_force_deeplink=true&amp;pid=Go-Jek_Web&amp;is_retargeting=false&amp;af_click_lookback=7d&amp;utm_content=Apple_App_Store&amp;utm_source=Go-Jek_Web&amp;utm_medium=Button&amp;af_adset=Apple_App_Store&amp;af_ad=Apple_App_Store&amp;utm_campaign=Website_Footer_Download_Button_Apple_App_Store&amp;af_channel=Button&amp;c=Website_Footer_Download_Button_Apple_App_Store">
+                        <i class="c-footer__icon--download text-size_14x md:p-6px pi pi-appstore md:text-white hover:text-hover-system1"></i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="download__app mt-8 gap-5 flex-col block md:hidden">
+              <div class="py-5">
+                <p class="c-footer__title mb-4 md:mb-8 lg:mb-6 ">Connect with Us</p>
+                <div class="grid grid-cols-6 ">
+                  <a target="_blank" class="cursor-pointer" href="https://web.facebook.com/gojekindonesia">
+                    <i class="c-footer__icon text-size_14x p-6px pi pi-facebook"></i>
+                  </a>
+                  <a target="_blank" class="cursor-pointer" href="https://twitter.com/gojekindonesia">
+                    <i class="c-footer__icon text-size_14x p-6px pi pi-twitter"></i>
+                  </a>
+                  <a target="_blank" class="cursor-pointer" href="https://www.instagram.com/gojekindonesia/">
+                    <i class="c-footer__icon text-size_14x p-6px pi pi-instagram"></i>
+                  </a>
+                  <a target="_blank" class="cursor-pointer" href="https://www.youtube.com/channel/UCmlKSK0OKn_B3oPwElW4n5w">
+                    <i class="c-footer__icon text-size_14x p-6px pi pi-youtube"></i>
+                  </a>
+                </div>
+              </div>
+              <p class="c-footer__title mb-4 mt-5 md:mb-8 lg:mb-8">Download the app</p>
+              <div class="flex flex-col sm:flex-row justify-center lg:justify-start items-center">
+                <a rel="noreferrer" target="_blank" aria-label="Download Gojek from App Store" class="btn btn-solid btn-solid--light flex items-center mb-6 sm:mb-0 sm:mr-6 bg-white text-black btn-app w-full justify-center" data-gtm="2021_homepage_appstore" href="https://apps.apple.com/id/app/gojek/id944875099">
+                  <i class="pi pi-appstore mr-2"></i> App store </a>
+                <a rel="noreferrer" target="_blank" aria-label="Download Gojek from Play Store" class="btn btn-solid btn-solid--light flex items-center mb-0 sm:mb-0 sm:mr-0 bg-white text-black btn-app w-full justify-center" data-gtm="2021_homepage_playstore" href="https://play.google.com/store/apps/details?id=com.gojek.app">
+                  <i class="pi pi-playstore mr-2"></i> Play store </a>
+              </div>
+            </div>
+          </div>
+          <div class="border__section-b">
+            <div class="container pt-10 grid grid-cols-1 md:grid-cols-3 md:gap-1 gap-3 ">
+              <ul class=" grid grid-cols-2 items-center gap-5 onlyMobile:pb-7 ">
+                <li class="gtm-footer-blog underline">
+                  <a class="c-footer__link" href="/en-id/privacy-policies">Privacy Notice</a>
+                </li>
+                <li class="gtm-footer-blog underline">
+                  <a class="c-footer__link" href="/en-id/terms-and-conditions">Terms &amp; Conditions</a>
+                </li>
+                <li class="gtm-footer-blog underline">
+                  <a class="c-footer__link" href="/en-id/data-provider-attribution">Data Attribution</a>
+                </li>
+              </ul>
+              <div class="dropdown__wrapper relative">
+                <div class="dropdown_container flex items-center gap-4">
+                  <i class="pi pi-location text-size_12x relative xl:static transition-transform duration-200 ease-out"></i>
+                  <button>Indonesia <i class="pi pi-expand_more text-size_12x relative xl:static transition-transform duration-200 ease-out"></i>
+                  </button>
+                </div>
+              </div>
+              <div class="dropdown__wrapper relative">
+                <div class="dropdown_container flex items-center gap-4">
+                  <i class="pi pi-language_letters text-size_12x relative xl:static transition-transform duration-200 ease-out"></i>
+                  <button>English <i class="pi pi-expand_more text-size_12x relative xl:static transition-transform duration-200 ease-out"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="container pb-10">
+            <div class="c-footer__copyright w-full xl:order-3 text-left md:text-center xl:text-left mt-8 md:mt-10">
+              <p class="c-footer__description">© 2025 RAFI99 | RAFI99 is a trademark of RAFI99. Registered in the Directorate General of Intellectual Property of the Republic of Indonesia.
+</p>
+            </div>
+          </div>
+        </footer>
+        <noscript>
+          <iframe src="/" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script src="https://cdn-site.gojek.com/static/_next/static/chunks/webpack-923b5b2f0866e2a5.js" async=""></script>
+      </body>
+    </html>
+    <script>
+      (self.__next_f = self.__next_f || []).push([0]);
+      self.__next_f.push([2, null])
+    </script>
+    <script>
+      self.__next_f.push([1, "1:HL[\"https://cdn-site.gojek.com/static/_next/static/css/595d2867740473cd.css\",\"style\"]\n2:HL[\"https://cdn-site.gojek.com/static/_next/static/css/2959200a453540a5.css\",\"style\"]\n"])
+    </script>
+    <script>
+      self.__next_f.push([1, "3:I[2846,[],\"\"]\n6:I[8003,[\"2972\",\"static/chunks/2972-8af337a0826d928a.js\",\"8003\",\"static/chunks/8003-4f3c35b8a3390d14.js\",\"8339\",\"static/chunks/8339-ff1f33f7296caa20.js\",\"716\",\"static/chunks/app/%5Blocale%5D/(indonesia)/layout-d05585ff0cc63374.js\"],\"\"]\n7:I[6952,[\"2972\",\"static/chunks/2972-8af337a0826d928a.js\",\"8003\",\"static/chunks/8003-4f3c35b8a3390d14.js\",\"8339\",\"static/chunks/8339-ff1f33f7296caa20.js\",\"716\",\"static/chunks/app/%5Blocale%5D/(indonesia)/layout-d05585ff0cc63374.js\"],\"default\"]\n8:I[4707,[],\"\"]\na:I[6423,[],\"\"]\nb:I[1540,[\"2972\",\"static/chunks/2972-8af337a0826d928a.js\",\"8003\",\"static/chunks/8003-4f3c35b8a3390d14.js\",\"8339\",\"static/chunks/8339-ff1f33f7296caa20.js\",\"716\",\"static/chunks/app/%5Blocale%5D/(indonesia)/layout-d05585ff0cc63374.js\"],\"default\"]\nc:I[9225,[\"2972\",\"static/chunks/2972-8af337a0826d928a.js\",\"7088\",\"static/chunks/7088-6389030e5a40cfc7.js\",\"8339\",\"static/chunks/8339-ff1f33f7296caa20.js\",\"7601\",\"static/chunks/app/error-81bcfb90d525de85.js\"],\"default\"]\nd:I[3241,[\"2972\",\"static/chunks/2972-8af337a0826d928a.js\",\"5079\",\"static/chunks/app/%5Blocale%5D/(indonesia)/%5B...slug%5D/not-found-8bf48136b719f17f.js\"],\"default\"]\nf:I[1060,[],\"\"]\n9:[\"locale\",\"en-id\",\"d\"]\n10:[]\n"])
+    </script>
+    <script>
+      self.__next_f.push([1, "0:[\"$\",\"$L3\",null,{\"buildId\":\"bEKjguxb8JdDaBbP6eyGj\",\"assetPrefix\":\"https://cdn-site.gojek.com/static\",\"urlParts\":[\"\",\"en-id\"],\"initialTree\":[\"\",{\"children\":[[\"locale\",\"en-id\",\"d\"],{\"children\":[\"(indonesia)\",{\"children\":[\"__PAGE__\",{}]}]}]},\"$undefined\",\"$undefined\",true],\"initialSeedData\":[\"\",{\"children\":[[\"locale\",\"en-id\",\"d\"],{\"children\":[\"(indonesia)\",{\"children\":[\"__PAGE__\",{},[[\"$L4\",\"$L5\",[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"https://cdn-site.gojek.com/static/_next/static/css/2959200a453540a5.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]]],null],null]},[[null,[\"$\",\"html\",null,{\"lang\":\"en\",\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"$L6\",null,{\"id\":\"GTM-id\",\"children\":\"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\\nj=d.createElement(s),dl=l!='dataLayer'?'\u0026l='+l:'';j.async=true;j.src=\\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\\n})(window,document,'script','dataLayer','GTM-W3VB57');\"}],[\"$\",\"$L6\",null,{\"src\":\"https://www.googletagmanager.com/gtag/js?id=G-DJQKT925G5\"}],[\"$\",\"$L6\",null,{\"id\":\"Gtag-id\",\"children\":\"window.dataLayer = window.dataLayer || [];\\n  function gtag(){dataLayer.push(arguments);}\\n  gtag('js', new Date());\\n  gtag('config', 'G-DJQKT925G5');\"}]]}],[\"$\",\"body\",null,{\"children\":[[\"$\",\"$L7\",null,{\"lang\":\"en-id\"}],[\"$\",\"div\",null,{\"className\":\"md:pt-[100px] pt-[80px]\",\"children\":[\"$\",\"$L8\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$9\",\"children\",\"(indonesia)\",\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$La\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\"}]}],[\"$\",\"$Lb\",null,{\"lang\":\"en-id\"}],[\"$\",\"noscript\",null,{\"children\":[\"$\",\"iframe\",null,{\"src\":\"https://www.googletagmanager.com/ns.html?id=GTM-W3VB57\",\"height\":\"0\",\"width\":\"0\",\"style\":{\"display\":\"none\",\"visibility\":\"hidden\"}}]}]]}]]}]],null],null]},[null,[\"$\",\"$L8\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$9\",\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$La\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\"}]],null]},[[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"https://cdn-site.gojek.com/static/_next/static/css/595d2867740473cd.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]],[\"$\",\"html\",null,{\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"link\",null,{\"href\":\"https://onesnap.dev/images/2025/10/15/fav-rafi99-14.png\",\"rel\":\"shortcut icon\",\"type\":\"image/x-icon\"}],[\"$\",\"$L6\",null,{\"src\":\"/scripts/new-relic-script.js\"}]]}],[\"$\",\"body\",null,{\"children\":[\"$\",\"$L8\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"error\":\"$c\",\"errorStyles\":[],\"errorScripts\":[],\"template\":[\"$\",\"$La\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[\"$\",\"section\",null,{\"className\":\"py-5 md:py-9 bg-white\",\"children\":[\"$\",\"div\",null,{\"className\":\"overflow-hidden container mx-auto\",\"children\":[\"$\",\"div\",null,{\"className\":\"flex flex-col-reverse gap-y-4 md:gap-x-30 md:flex-row-reverse\",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-full flex flex-col justify-center text-dark md:w-1/2\",\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"h2\",null,{\"className\":\"font-maisonExtendedBold font-bold tracking-normal xl:tracking-title text-size_13x leading-height_39x md:text-size_18x md:leading-height_54x mb-3 md:mb-6\",\"children\":\"Oops! Page is unavailable :(\"}],[\"$\",\"p\",null,{\"className\":\"font-maisonBook text-size_7x md:text-size_8x xl:text-size_9x font-light leading-height_21x xl:leading-height_24x mb-6\",\"children\":\"But don't be sad #ThereIsAlwaysAWay for you!\"}],false,false,[\"$\",\"div\",null,{\"className\":\"flex justify-start md:justify-center gap-4 w-full lg:w-fit\",\"children\":[[\"$\",\"$Ld\",null,{\"data\":{\"label\":\"Back to homepage\",\"href\":\"/\",\"theme\":\"outline\"}}],false]}]]}]}],[\"$\",\"div\",null,{\"className\":\"w-full md:w-[calc(50%-70px)]\",\"children\":[\"$\",\"div\",null,{\"className\":\"mx-auto h-full flex items-center relative\",\"children\":[[\"$\",\"img\",null,{\"alt\":\"Info card image\",\"className\":\"w-full object-cover rounded-r24 my-auto\",\"width\":\"$undefined\",\"height\":\"$undefined\",\"src\":\"https://site-norns.gojek.com/uploads/7cfa4ccce877359f329ac827786c1f2a_5ab19d97db.webp\"}],false]}]}]]}]}]}],\"notFoundStyles\":[]}]}]]}]],null],null],\"couldBeIntercepted\":false,\"initialHead\":[null,\"$Le\"],\"globalErrorComponent\":\"$f\",\"missingSlots\":\"$W10\"}]\n"])
+    </script>
+    <script>
+      self.__next_f.push([1, "11:I[7339,[\"2972\",\"static/chunks/2972-8af337a0826d928a.js\",\"6837\",\"static/chunks/6837-43d46a220b6230ee.js\",\"1853\",\"static/chunks/1853-9bd4c32453a1fa4b.js\",\"7088\",\"static/chunks/7088-6389030e5a40cfc7.js\",\"2742\",\"static/chunks/2742-d00df0b52e49e3a2.js\",\"6492\",\"static/chunks/6492-55debad990bd10f3.js\",\"7113\",\"static/chunks/7113-7c221e7039fc200e.js\",\"1633\",\"static/chunks/app/%5Blocale%5D/(indonesia)/%5B...slug%5D/page-5f9bd2fa64114855.js\"],\"default\"]\n12:I[8107,[\"2972\",\"static/chunks/2972-8af337a0826d928a.js\",\"6837\",\"static/chunks/6837-43d46a220b6230ee.js\",\"1853\",\"static/chunks/1853-9bd4c32453a1fa4b.js\",\"7088\",\"static/chunks/7088-6389030e5a40cfc7.js\",\"2742\",\"static/chunks/2742-d00df0b52e49e3a2.js\",\"6492\",\"static/chunks/6492-55debad990bd10f3.js\",\"7113\",\"static/chunks/7113-7c221e7039fc200e.js\",\"1633\",\"static/chunks/app/%5Blocale%5D/(indonesia)/%5B...slug%5D/page-5f9bd2fa64114855.js\"],\"default\"]\n13:I[9119,[\"2972\",\"static/chunks/2972-8af337a0826d928a.js\",\"6837\",\"static/chunks/6837-43d46a220b6230ee.js\",\"1853\",\"static/chunks/1853-9bd4c32453a1fa4b.js\",\"7088\",\"static/chunks/7088-6389030e5a40cfc7.js\",\"2742\",\"static/chunks/2742-d00df0b52e49e3a2.js\",\"6492\",\"static/chunks/6492-55debad990bd10f3.js\",\"7113\",\"static/chunks/7113-7c221e7039fc200e.js\",\"1633\",\"static/chunks/app/%5Blocale%5D/(indonesia)/%5B...slug%5D/page-5f9bd2fa64114855.js\"],\"default\"]\n14:I[153,[\"2972\",\"static/chunks/2972-8af337a0826d928a.js\",\"6837\",\"static/chunks/6837-43d46a220b6230ee.js\",\"1853\",\"static/chunks/1853-9bd4c32453a1fa4b.js\",\"7088\",\"static/chunks/7088-6389030e5a40cfc7.js\",\"2742\",\"static/chunks/2742-d00df0b52e49e3a2.js\",\"6492\",\"static/chunks/6492-55debad990bd10f3.js\",\"7113\",\"static/chunks/7113-7c221e7039fc200e.js\",\"1633\",\"static/chunks/app/%5Blocale%5D/(indonesia)/%5B...slug%5D/page-5f9bd2fa64114855.js\"],\"default\"]\n"])
+    </script>
+    <script>
+      self.__next_f.push([1, "e:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"2\",{\"children\":\"Gojek Super App\"}],[\"$\",\"meta\",\"3\",{\"name\":\"description\",\"content\":\"Lebih dari 1 juta driver Gojek siap melayani ojek online, taksi online, pesan antar makanan, kirim barang, belanja \u0026 pembayaran. Download Gojek Super App.\"}],[\"$\",\"meta\",\"4\",{\"name\":\"keywords\",\"content\":\"gojek, gojek, go jek, hidup, tanpa, batas, ojek, online, indonesia, nadiem, driver, gofood, gomart, goshop, golife, gosend, gobox, gocar, goride, goride, gocar, gosend, gofood, golife, ojek online\"}],[\"$\",\"link\",\"5\",{\"rel\":\"alternate\",\"hrefLang\":\"en\",\"href\":\"https://www.gojek.com/en-id\"}],[\"$\",\"link\",\"6\",{\"rel\":\"alternate\",\"hrefLang\":\"x-default\",\"href\":\"https://www.gojek.com/en-id\"}],[\"$\",\"link\",\"7\",{\"rel\":\"alternate\",\"hrefLang\":\"id\",\"href\":\"https://www.gojek.com/id-id\"}],[\"$\",\"link\",\"8\",{\"rel\":\"icon\",\"href\":\"/icon.png?8fbc3fa638ed083c\",\"type\":\"image/png\",\"sizes\":\"32x32\"}]]\n4:null\n"])
+    </script>
+  </body>
+</html>
