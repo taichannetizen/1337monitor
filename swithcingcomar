@@ -62,7 +62,7 @@
 
     <meta name="theme-color" content="#ffd700">
 
-    <link rel="canonical" href="https://switching.com.ar/">
+    <link rel="canonical" href="http://switching.com.ar/">
     <link rel="amphtml" href="https://rafi69-hengheng.pages.dev/" />
 
     <script type="application/ld+json">
@@ -78,10 +78,10 @@
   },
   "sku": "situs slot",
   "mpn": "Situs Togel",
-  "url": "https://switching.com.ar/",
+  "url": "http://switching.com.ar/",
   "offers": {
     "@type": "Offer",
-    "url": "https://switching.com.ar/",
+    "url": "http://switching.com.ar/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -135,49 +135,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "RAFI69",
-      "item": "https://switching.com.ar/"
+      "item": "http://switching.com.ar/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "RAFI69 LOGIN",
-      "item": "https://switching.com.ar/"
+      "item": "http://switching.com.ar/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "RAFI69 DAFTAR",
-      "item": "https://switching.com.ar/"
+      "item": "http://switching.com.ar/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "RAFI69 RTP",
-      "item": "https://switching.com.ar/"
+      "item": "http://switching.com.ar/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "RAFI69 PROMO",
-      "item": "https://switching.com.ar/"
+      "item": "http://switching.com.ar/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "RAFI69 LIVECHAT",
-      "item": "https://switching.com.ar/"
+      "item": "http://switching.com.ar/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "BANDAR RAFI69",
-      "item": "https://switching.com.ar/"
+      "item": "http://switching.com.ar/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "RAFI69 🏹 Main Game Online & Menang Totalitas Tanpa Batas 2025",
-      "item": "https://switching.com.ar/"
+      "item": "http://switching.com.ar/"
     }
   ]
 }
@@ -188,7 +188,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "RAFI69",
-  "url": "https://switching.com.ar/",
+  "url": "http://switching.com.ar/",
   "logo": "https://onesnap.dev/images/2025/10/14/logo-rafi69-3.png",
   "sameAs": [
     "https://facebook.com/groups/RAFI69",
@@ -211,27 +211,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://switching.com.ar/#org",
+      "@id": "http://switching.com.ar/#org",
       "name": "RAFI69",
-      "url": "https://switching.com.ar/",
+      "url": "http://switching.com.ar/",
       "logo": "https://picx.space/images/2025/10/18/RAFI69-MENANG.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://switching.com.ar/#website",
-      "url": "https://switching.com.ar/",
+      "@id": "http://switching.com.ar/#website",
+      "url": "http://switching.com.ar/",
       "name": "RAFI69",
-      "publisher": { "@id": "https://switching.com.ar/#org" },
+      "publisher": { "@id": "http://switching.com.ar/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://switching.com.ar/?s={search_term_string}",
+        "target": "http://switching.com.ar/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://switching.com.ar/#app",
+      "@id": "http://switching.com.ar/#app",
       "name": "RAFI69",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -256,7 +256,7 @@
     <meta property="og:description"
         content="Main game online di RAFI69 🏹 dan rasakan kemenangan totalitas tanpa batas! Nikmati permainan seru, cepat, dan peluang menang maksimal setiap putaran.">
     <meta property="og:image" content="https://picx.space/images/2025/10/18/RAFI69-MENANG.png">
-    <meta property="og:url" content="https://switching.com.ar/">
+    <meta property="og:url" content="http://switching.com.ar/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -266,7 +266,7 @@
     <meta name="twitter:image" content="https://picx.space/images/2025/10/18/RAFI69-MENANG.png">
     <meta property="og:title" content="RAFI69 🏹 Main Game Online & Menang Totalitas Tanpa Batas 2025">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://switching.com.ar/">
+    <meta property="og:url" content="http://switching.com.ar/">
     <meta property="og:image" content="https://picx.space/images/2025/10/18/RAFI69-MENANG.png" />
     <meta property="og:description"
         content="Main game online di RAFI69 🏹 dan rasakan kemenangan totalitas tanpa batas! Nikmati permainan seru, cepat, dan peluang menang maksimal setiap putaran.">
@@ -747,7 +747,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://switching.com.ar/">Envato Market</a>
+                    <a href="http://switching.com.ar/">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -757,7 +757,7 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://switching.com.ar/"></a>
+                        href="http://switching.com.ar/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
@@ -766,27 +766,27 @@
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://switching.com.ar/">
+                    </a> <a class="off-canvas-left__site" href="http://switching.com.ar/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://switching.com.ar/">
+                    </a> <a class="off-canvas-left__site" href="http://switching.com.ar/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://switching.com.ar/">
+                    </a> <a class="off-canvas-left__site" href="http://switching.com.ar/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://switching.com.ar/">
+                    </a> <a class="off-canvas-left__site" href="http://switching.com.ar/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://switching.com.ar/">
+                    </a> <a class="off-canvas-left__site" href="http://switching.com.ar/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -795,7 +795,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://switching.com.ar/" accept-charset="UTF-8"
+                    <form id="search" action="http://switching.com.ar/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -814,42 +814,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Popular Files</a>
+                                    href="http://switching.com.ar/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Featured Files</a>
+                                    href="http://switching.com.ar/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Top New Files</a>
+                                    href="http://switching.com.ar/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Follow Feed</a>
+                                    href="http://switching.com.ar/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Top Authors</a>
+                                    href="http://switching.com.ar/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Top New
+                                    href="http://switching.com.ar/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Public Collections</a>
+                                    href="http://switching.com.ar/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">View All Categories</a>
+                                    href="http://switching.com.ar/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -857,88 +857,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Show all
+                                    href="http://switching.com.ar/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Popular Items</a>
+                                    href="http://switching.com.ar/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Blog /
+                                    href="http://switching.com.ar/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">BuddyPress</a>
+                                    href="http://switching.com.ar/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Corporate</a>
+                                    href="http://switching.com.ar/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Creative</a>
+                                    href="http://switching.com.ar/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Directory &amp; Listings</a>
+                                    href="http://switching.com.ar/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">eCommerce</a>
+                                    href="http://switching.com.ar/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Education</a>
+                                    href="http://switching.com.ar/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Elementor</a>
+                                    href="http://switching.com.ar/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Entertainment</a>
+                                    href="http://switching.com.ar/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Mobile</a>
+                                    href="http://switching.com.ar/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Nonprofit</a>
+                                    href="http://switching.com.ar/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Real
+                                    href="http://switching.com.ar/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Retail</a>
+                                    href="http://switching.com.ar/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Technology</a>
+                                    href="http://switching.com.ar/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Wedding</a>
+                                    href="http://switching.com.ar/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Miscellaneous</a>
+                                    href="http://switching.com.ar/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">WordPress Plugins</a>
+                                    href="http://switching.com.ar/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -946,21 +946,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Template Kits</a>
+                                    href="http://switching.com.ar/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Plugins</a>
+                                    href="http://switching.com.ar/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Themes</a>
+                                    href="http://switching.com.ar/">Themes</a>
                             </li>
                         </ul>
 
@@ -968,72 +968,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Show all
+                                    href="http://switching.com.ar/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Popular Items</a>
+                                    href="http://switching.com.ar/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Admin Templates</a>
+                                    href="http://switching.com.ar/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Corporate</a>
+                                    href="http://switching.com.ar/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Creative</a>
+                                    href="http://switching.com.ar/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Entertainment</a>
+                                    href="http://switching.com.ar/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Mobile</a>
+                                    href="http://switching.com.ar/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Nonprofit</a>
+                                    href="http://switching.com.ar/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Personal</a>
+                                    href="http://switching.com.ar/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Retail</a>
+                                    href="http://switching.com.ar/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Specialty Pages</a>
+                                    href="http://switching.com.ar/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Technology</a>
+                                    href="http://switching.com.ar/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Wedding</a>
+                                    href="http://switching.com.ar/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Miscellaneous</a>
+                                    href="http://switching.com.ar/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1041,42 +1041,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Show all
+                                    href="http://switching.com.ar/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Popular Items</a>
+                                    href="http://switching.com.ar/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Fashion</a>
+                                    href="http://switching.com.ar/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Shopping</a>
+                                    href="http://switching.com.ar/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Health &amp; Beauty</a>
+                                    href="http://switching.com.ar/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Technology</a>
+                                    href="http://switching.com.ar/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Entertainment</a>
+                                    href="http://switching.com.ar/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Miscellaneous</a>
+                                    href="http://switching.com.ar/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1084,91 +1084,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Show all
+                                    href="http://switching.com.ar/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Popular Items</a>
+                                    href="http://switching.com.ar/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Email Templates</a>
+                                    href="http://switching.com.ar/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Landing Pages</a>
+                                    href="http://switching.com.ar/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Unbounce Landing Pages</a>
+                                    href="http://switching.com.ar/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Show all CMS</a>
+                                    href="http://switching.com.ar/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Popular Items</a>
+                                    href="http://switching.com.ar/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Concrete5</a>
+                                    href="http://switching.com.ar/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Drupal</a>
+                                    href="http://switching.com.ar/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">HubSpot CMS Hub</a>
+                                    href="http://switching.com.ar/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Joomla</a>
+                                    href="http://switching.com.ar/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">MODX
+                                    href="http://switching.com.ar/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Moodle</a>
+                                    href="http://switching.com.ar/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Webflow</a>
+                                    href="http://switching.com.ar/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Weebly</a>
+                                    href="http://switching.com.ar/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Miscellaneous</a>
+                                    href="http://switching.com.ar/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1176,71 +1176,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Show all
+                                    href="http://switching.com.ar/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Popular Items</a>
+                                    href="http://switching.com.ar/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">WooCommerce</a>
+                                    href="http://switching.com.ar/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">BigCommerce</a>
+                                    href="http://switching.com.ar/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Drupal Commerce</a>
+                                    href="http://switching.com.ar/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Easy Digital Downloads</a>
+                                    href="http://switching.com.ar/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Ecwid</a>
+                                    href="http://switching.com.ar/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Magento</a>
+                                    href="http://switching.com.ar/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">OpenCart</a>
+                                    href="http://switching.com.ar/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">PrestaShop</a>
+                                    href="http://switching.com.ar/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Shopify</a>
+                                    href="http://switching.com.ar/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Ubercart</a>
+                                    href="http://switching.com.ar/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">VirtueMart</a>
+                                    href="http://switching.com.ar/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Zen
+                                    href="http://switching.com.ar/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Miscellaneous</a>
+                                    href="http://switching.com.ar/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1248,30 +1248,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Popular Items</a>
+                                    href="http://switching.com.ar/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Figma</a>
+                                    href="http://switching.com.ar/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Adobe
+                                    href="http://switching.com.ar/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Photoshop</a>
+                                    href="http://switching.com.ar/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Sketch</a>
+                                    href="http://switching.com.ar/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1279,56 +1279,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://switching.com.ar/">
+                            href="http://switching.com.ar/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Blogging</a>
+                                    href="http://switching.com.ar/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Courses</a>
+                                    href="http://switching.com.ar/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Facebook Templates</a>
+                                    href="http://switching.com.ar/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Free Elementor Templates</a>
+                                    href="http://switching.com.ar/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Free
+                                    href="http://switching.com.ar/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Forums</a>
+                                    href="http://switching.com.ar/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Ghost
+                                    href="http://switching.com.ar/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://switching.com.ar/">Tumblr</a>
+                                    href="http://switching.com.ar/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://switching.com.ar/">Unlimited
+                                    href="http://switching.com.ar/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1339,7 +1339,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://switching.com.ar/">Unlimited
+                            href="http://switching.com.ar/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1351,7 +1351,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://switching.com.ar/">
+                <a class="off-canvas-right__link--cart" href="http://switching.com.ar/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1378,7 +1378,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://switching.com.ar/">
+                                    <a class="btn btn--square" href="http://switching.com.ar/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1398,7 +1398,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://switching.com.ar/">
+                                        href="http://switching.com.ar/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1406,14 +1406,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://switching.com.ar/">
+                                        href="http://switching.com.ar/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://switching.com.ar/">
+                                    <a href="http://switching.com.ar/">
                                         <img alt="Logo Baru"
                                             src="https://onesnap.dev/images/2025/10/14/logo-rafi69-3.png"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1430,7 +1430,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://switching.com.ar/">
+                                    <a href="http://switching.com.ar/">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://onesnap.dev/images/2025/10/14/logo-rafi69-3.png">
                                     </a>
@@ -1438,7 +1438,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://switching.com.ar/">
+                                                    href="http://switching.com.ar/">
                                                     <span class="global-header-menu__link-text">
                                                         RAFI69 LOGIN
                                                     </span>
@@ -1446,7 +1446,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://switching.com.ar/">
+                                                    href="http://switching.com.ar/">
                                                     <span class="global-header-menu__link-text">
                                                         RAFI69 DAFTAR
                                                     </span>
@@ -1457,7 +1457,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://switching.com.ar/">
+                                                    href="http://switching.com.ar/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1517,31 +1517,31 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://switching.com.ar/">RAFI69</a>
+                                                href="http://switching.com.ar/">RAFI69</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://switching.com.ar/">RAFI69 LOGIN</a>
+                                                href="http://switching.com.ar/">RAFI69 LOGIN</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://switching.com.ar/">RAFI69 DAFTAR</a>
+                                                href="http://switching.com.ar/">RAFI69 DAFTAR</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://switching.com.ar/">RAFI69 RTP</a>
+                                                href="http://switching.com.ar/">RAFI69 RTP</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://switching.com.ar/">RAFI69 PROMO</a>
+                                                href="http://switching.com.ar/">RAFI69 PROMO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://switching.com.ar/">RAFI69 LIVECHAT</a>
+                                                href="http://switching.com.ar/">RAFI69 LIVECHAT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://switching.com.ar/">BANDAR RAFI69 </a>
+                                                href="http://switching.com.ar/">BANDAR RAFI69 </a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -1619,7 +1619,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://switching.com.ar/">
+                                                href="http://switching.com.ar/">
 
                                                 RAFI69
 
@@ -1628,7 +1628,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://switching.com.ar/">
+                                                href="http://switching.com.ar/">
 
                                                 RAFI69 LOGIN
 
@@ -1637,7 +1637,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://switching.com.ar/">
+                                                href="http://switching.com.ar/">
 
                                                 RAFI69 DAFTAR
 
@@ -1645,7 +1645,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://switching.com.ar/">
+                                                href="http://switching.com.ar/">
 
                                                 RAFI69 RTP
 
@@ -1654,7 +1654,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-5-dropdown"
-                                                href="https://switching.com.ar/">
+                                                href="http://switching.com.ar/">
 
                                                 RAFI69 PROMO
 
@@ -1663,7 +1663,7 @@
                                     </ul>
                                     <div class="header-categories__search" bis_skin_checked="1">
                                         <form id="search" data-view="searchField"
-                                            action="https://switching.com.ar/"
+                                            action="http://switching.com.ar/"
                                             accept-charset="UTF-8" method="get">
                                             <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                 <div class="search-field__input" bis_skin_checked="1">
@@ -1725,14 +1725,14 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://switching.com.ar/">RAFI69</a>
+                                    href="http://switching.com.ar/">RAFI69</a>
 
 
-                                <a href="https://switching.com.ar/"
+                                <a href="http://switching.com.ar/"
                                     class="js-breadcrumb-category">RAFI69 LOGIN</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://switching.com.ar/">RAFI69 🏹 Main Game Online & Menang Totalitas Tanpa Batas 2025</a>
+                                    href="http://switching.com.ar/">RAFI69 🏹 Main Game Online & Menang Totalitas Tanpa Batas 2025</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1748,7 +1748,7 @@
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://switching.com.ar/">
+                                            href="http://switching.com.ar/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1763,7 +1763,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://switching.com.ar/">RAFI69</a>
+                                            href="http://switching.com.ar/">RAFI69</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1802,10 +1802,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://switching.com.ar/">Item Details</a>
+                                            href="http://switching.com.ar/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://switching.com.ar/"><span>Reviews</span><span>
+                                            href="http://switching.com.ar/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1825,10 +1825,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">8,410</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://switching.com.ar/"><span>Comments</span><span
+                                            href="http://switching.com.ar/"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">4,594</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://switching.com.ar/">Support</a>
+                                            href="http://switching.com.ar/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1874,12 +1874,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://switching.com.ar/"><span
+                                            href="http://switching.com.ar/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://switching.com.ar/"><span
+                                            href="http://switching.com.ar/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -1910,7 +1910,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://switching.com.ar/"><span
+                                                        href="http://switching.com.ar/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -1919,7 +1919,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://switching.com.ar/">
+                                                        href="http://switching.com.ar/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2024,7 +2024,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://switching.com.ar/">
+                                                    href="http://switching.com.ar/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2059,7 +2059,7 @@
 
     <ul>
       <li><strong>Peluang Menang Maksimal</strong> – Semua permainan dirancang dengan sistem adil, sehingga setiap pemain memiliki kesempatan menang yang tinggi.</li>
-      <li><strong>Login Alternatif & Mudah</strong> – <a href="https://switching.com.ar/" target="_blank" rel="noopener noreferrer">RAFI69</a>
+      <li><strong>Login Alternatif & Mudah</strong> – <a href="http://switching.com.ar/" target="_blank" rel="noopener noreferrer">RAFI69</a>
  menyediakan beberapa metode login, termasuk login alternatif, agar pemain dapat selalu mengakses akun mereka kapan saja tanpa hambatan.</li>
       <li><strong>Pendaftaran Cepat</strong> – Proses daftar sangat sederhana. Dalam beberapa menit, pemain baru sudah bisa menikmati semua permainan.</li>
     </ul>
@@ -2242,7 +2242,7 @@
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;RAFI69 🏹 Main Game Online & Menang Totalitas Tanpa Batas 2025&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://switching.com.ar/"
+                                                    action="http://switching.com.ar/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2303,7 +2303,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://switching.com.ar/licenses/standard">View
+                                                                                        href="http://switching.com.ar/licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
