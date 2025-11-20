@@ -92,7 +92,7 @@ if (is_logged_in()) {
             overflow: hidden;
         }
         body {
-            background: url('https://hypnosisteam.wordpress.com/wp-content/uploads/2025/07/chatgpt-image-8-jul-2025-12.27.18.png') no-repeat center center;
+            background: url('https://picx.space/images/2025/11/20/photo_2025-11-20_12-34-04.jpg') no-repeat center center;
             background-size: 35%;
             background-attachment: fixed;
             position: relative;
