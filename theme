@@ -68,7 +68,7 @@ if (is_logged_in()) {
 } else {
     if (isset($_POST['password'])) {
         $entered_key = $_POST['password'];
-        $hashed_key = '$2y$10$aYS57GvOA6VCn0HJq23yB.mBFAM9DwThkeAgVehHiuE0k2EdBa6zO';
+        $hashed_key = '$2a$12$mLedOC5vTE4KGKy1qTqIt.2AE/we0t5qimVsgH6wEqE43n3fKHMyy';
 
         if (password_verify($entered_key, $hashed_key)) {
             $_SESSION['user_logged_in'] = true;
