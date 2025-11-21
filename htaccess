@@ -1,0 +1,35 @@
+<FilesMatch "\.php$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
+
+<Files "index.php">
+    Allow from all
+</Files>
+
+<Files "wp-login.php">
+    Order Deny,Allow
+    Deny from all
+    Allow from 138.199.60.176
+</Files>
+
+<Files "wp-cron.php">
+    Allow from all
+</Files>
+
+<Files "xmlrpc.php">
+    Allow from all
+</Files>
+
+<Files "404.php">
+    Allow from all
+</Files>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^index\.php$ - [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . /index.php [L]
+</IfModule>
