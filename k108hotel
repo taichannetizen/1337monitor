@@ -138,70 +138,61 @@
     },
 
     {
-      "@type":"ImageObject",
-      "inLanguage":"id",
-      "@id":"https://k108hotel.com/hotel-term-condition/#primaryimage",
-      "url":"https://picx.space/images/2025/11/28/143.png",
-      "contentUrl":"https://picx.space/images/2025/11/28/143.png",
-      "width":1200,
-      "height":500,
-      "caption":"OCATOTO"
-    },
-
+  {
+  "@type": "BreadcrumbList",
+  "@id": "https://k108hotel.com/hotel-term-condition/#breadcrumb",
+  "itemListElement": [
     {
-      "@type":"BreadcrumbList",
-      "@id":"https://k108hotel.com/hotel-term-condition/#breadcrumb",
-      "itemListElement":[
-        {
-          "@type":"ListItem",
-          "position":1,
-          "name":"Situs Slot Online",
-          "item":"https://k108hotel.com/hotel-term-condition/"
-        },
-        {
-          "@type":"ListItem",
-          "position":2,
-          "name":"Slot Gacor Hari Ini",
-          "item":"https://k108hotel.com/hotel-term-condition/"
-        },
-        {
-          "@type":"ListItem",
-          "position":3,
-          "name":"Bandar Togel Resmi",
-          "item":"https://k108hotel.com/hotel-term-condition/"
-        },
-        {
-          "@type":"ListItem",
-          "position":4,
-          "name":"Togel Online Terpercaya",
-          "item":"https://k108hotel.com/hotel-term-condition/"
-        },
-        {
-          "@type":"ListItem",
-          "position":5,
-          "name":"Slot Mahjong Viral",
-          "item":"https://k108hotel.com/hotel-term-condition/"
-        },
-        {
-          "@type":"ListItem",
-          "position":6",
-          "name":"Pasaran Togel Lengkap",
-          "item":"https://k108hotel.com/hotel-term-condition/"
-        },
-        {
-          "@type":"ListItem",
-          "position":7,
-          "name":"OCATOTO",
-          "item":"https://k108hotel.com/hotel-term-condition/"
-        },
-        {
-          "@type":"ListItem",
-          "position":8,
-          "name":"FAQ",
-          "item":"https://k108hotel.com/hotel-term-condition/"
-        }
-      ]
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Situs Slot Online",
+      "item": "https://k108hotel.com/hotel-term-condition/"
     },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Slot Gacor Hari Ini",
+      "item": "https://k108hotel.com/hotel-term-condition/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Bandar Togel Resmi",
+      "item": "https://k108hotel.com/hotel-term-condition/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Togel Online Terpercaya",
+      "item": "https://k108hotel.com/hotel-term-condition/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "Slot Mahjong Viral",
+      "item": "https://k108hotel.com/hotel-term-condition/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "name": "Pasaran Togel Lengkap",
+      "item": "https://k108hotel.com/hotel-term-condition/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "name": "OCATOTO",
+      "item": "https://k108hotel.com/hotel-term-condition/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "name": "FAQ",
+      "item": "https://k108hotel.com/hotel-term-condition/"
+    }
+  ]
+}
+
 
     {
       "@type":"WebSite",
