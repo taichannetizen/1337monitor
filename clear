@@ -1,0 +1,13 @@
+<?php
+// Clear OPcache if possible
+if (function_exists('opcache_reset')) {
+    if (opcache_reset()) {
+        echo "✅ OPcache berhasil di-reset!";
+    } else {
+        echo "⚠️ Gagal mereset OPcache.";
+    }
+} else {
+    echo "❌ Fungsi opcache_reset() tidak tersedia.";
+}
+?>
+
